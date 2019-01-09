@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1> Internship Work </h1> <br>
+<h1> Summary </h1> <br>
 <ul style="list-style-type:disc">
   <li>Facial Reckognition using Amazon Rekognition</li>
   <li>Reduce the over all time from once 80 seconds for 30 images to average 10 seconds for 600 images<br>
